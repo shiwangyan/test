@@ -34,7 +34,9 @@
 # 图片
 *.PNG
 *.png
+*.JPG
 *.jpg
+
 
 # 字幕
 *.srt
