@@ -10,7 +10,7 @@ print(torch.cuda.is_available())
 # import numpy as np
 
 #
-#
+
 # p = 0.6
 # K = 8
 # z = 0.99
